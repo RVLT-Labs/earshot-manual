@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100" height="100">
+  <!-- Earshot app tile: cream caption bubble on RVLT red (from apps/desktop/src-tauri/icons/source.svg). -->
+  <rect width="100" height="100" rx="22.6" fill="#e0363d"/>
+  <path d="M24 26h52a8 8 0 0 1 8 8v26a8 8 0 0 1-8 8H50L34 80V68H24a8 8 0 0 1-8-8V34a8 8 0 0 1 8-8z" fill="none" stroke="#f5efe2" stroke-width="8" stroke-linejoin="round"/>
+  <rect x="30" y="38" width="40" height="7" rx="3.5" fill="#f5efe2"/>
+  <rect x="30" y="51" width="26" height="7" rx="3.5" fill="#f5efe2"/>
+</svg>
